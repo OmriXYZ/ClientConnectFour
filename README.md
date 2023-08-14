@@ -8,6 +8,8 @@ Connect Four is a classic two-player board game in which players take turns drop
 
 This project aims to provide a digital version of the Connect Four game, allowing players to compete against each other through the WinForms client while utilizing the server for game state management and communication.
 
+For server project: https://github.com/OmriXYZ/ServerConnectFour
+
 ## Project Structure
 
 The project consists of two separate components: the server and the client.
